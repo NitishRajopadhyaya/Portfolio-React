@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.fc463122.css",
+    "main.js": "/Portfolio-React/static/js/main.bdd9df39.js",
+    "static/media/Nitish.png": "/Portfolio-React/static/media/Nitish.23261cc43a3348f8ca0c.png",
+    "static/media/HTML.png": "/Portfolio-React/static/media/HTML.c352d5da470ef2808d53.png",
+    "static/media/NET.png": "/Portfolio-React/static/media/NET.bc11035eb410ff2671c7.png",
+    "static/media/CSS.png": "/Portfolio-React/static/media/CSS.f8c4bde32534afae4871.png",
+    "static/media/python.png": "/Portfolio-React/static/media/python.ee08a92940e47d6c5335.png",
+    "static/media/DB.png": "/Portfolio-React/static/media/DB.89e3349bae1c3da051da.png",
+    "static/media/Csharp.png": "/Portfolio-React/static/media/Csharp.cb48a3e941f1dfd9e24c.png",
+    "static/media/DBB.png": "/Portfolio-React/static/media/DBB.35ca2334377898d35cf2.png",
+    "static/media/Azure.png": "/Portfolio-React/static/media/Azure.eca550650784c57abb57.png",
+    "static/media/Git.png": "/Portfolio-React/static/media/Git.762a93a34a15f631b331.png",
+    "static/media/VStudio.png": "/Portfolio-React/static/media/VStudio.5a96ad048aa255f026b5.png",
+    "static/media/code.png": "/Portfolio-React/static/media/code.2721020a0c1034fad0f6.png",
+    "static/media/EFCore.png": "/Portfolio-React/static/media/EFCore.0dfe193d64a9c5b2b744.png",
+    "static/media/ui-design.png": "/Portfolio-React/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/cv.png": "/Portfolio-React/static/media/cv.8892f01160eb562a13a1.png",
+    "static/media/NL.png": "/Portfolio-React/static/media/NL.d8fc489341b97ed139fa.png",
+    "static/media/instagram.png": "/Portfolio-React/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "static/media/logo.svg": "/Portfolio-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio-React/index.html",
+    "main.fc463122.css.map": "/Portfolio-React/static/css/main.fc463122.css.map",
+    "main.bdd9df39.js.map": "/Portfolio-React/static/js/main.bdd9df39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc463122.css",
+    "static/js/main.bdd9df39.js"
+  ]
+}
